@@ -25,7 +25,7 @@ jobs:
       env:
           TURBO_TOKEN: QaMQsDA2I4QGDOvN8iNg4cgW
           TURBO_TEAM: sirios-ui
-      
+          
       - name: Deploy storybook
         working-directory: ./packages/docs
         run: touch storybook-static/.nojekyll && npm run deploy-storybook -- --ci --existing-output-dir=storybook-static
