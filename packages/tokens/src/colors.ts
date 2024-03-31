@@ -1,6 +1,7 @@
 export const colors = {
   white: '#ffffff',
   black: '#000000',
+  sirios: '#e28707',
 
   sirios400: 'e6e6e6',
   sirios500: '#e28707',

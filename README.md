@@ -10,3 +10,6 @@ Components
 - [X] Avatar
 - [X] MultiStep
 - [X] List
+
+npm run changeset
+npm run version-packages
