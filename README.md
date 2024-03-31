@@ -14,7 +14,7 @@ Components
 npm run changeset
 npm run version-packages
 
-git add .
-git status
-git commit -m "xpto"
-git push origin main
+- git add .
+- git status
+- git commit -m "????"
+- git push origin main
