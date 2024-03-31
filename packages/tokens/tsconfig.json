@@ -1,0 +1,4 @@
+{
+  "extends": "@sirios/ts-config/base.json",
+  "include": ["src"]
+}

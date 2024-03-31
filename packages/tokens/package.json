@@ -1,0 +1,25 @@
+{
+  "name": "@sirios/tokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup src/index.ts --format esm,cjs --dts",
+    "dev": "tsup src/index.ts --format esm,cjs --dts --watch",
+    "lint": "eslint src/**/*.ts* --fix"
+  },
+  "keywords": [
+    "FIIs",
+    "SiRiOS"
+  ],
+  "author": "SiRiOS",
+  "license": "MIT",
+  "devDependencies": {
+    "@sirios/ts-config": "*",
+    "@sirios/eslint-config": "*",
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.3"
+  }
+}
