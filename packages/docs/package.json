@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "deploy-storybook": "storybook-to-ghpages",
+    "build-vite": "tsc && vite build",
     "build": "storybook build",
     "dev": "storybook dev -p 6006"
   },
