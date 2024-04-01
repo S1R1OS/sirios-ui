@@ -11,10 +11,10 @@ Components
 - [X] MultiStep
 - [X] List
 
-npm run changeset
-npm run version-packages
+- [x] npm run changeset
+- [x] npm run version-packages
 
-- git add .
-- git status
-- git commit -m "????"
-- git push origin main
+- [x] git add .
+- [x] git status
+- [x] git commit -m "First commit"
+- [x] git push origin main
