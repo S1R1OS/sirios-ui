@@ -1,5 +1,11 @@
 # @sirios/react
 
+## 4.0.0
+
+### Major Changes
+
+- Bug fix
+
 ## 3.0.3
 
 ### Patch Changes
