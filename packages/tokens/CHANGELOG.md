@@ -1,5 +1,11 @@
 # @sirios/tokens
 
+## 3.0.2
+
+### Patch Changes
+
+- NextJs
+
 ## 3.0.1
 
 ### Patch Changes
