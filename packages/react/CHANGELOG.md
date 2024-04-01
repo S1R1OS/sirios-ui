@@ -1,5 +1,11 @@
 # @sirios/react
 
+## 3.0.3
+
+### Patch Changes
+
+- Add NextJs
+
 ## 3.0.2
 
 ### Patch Changes

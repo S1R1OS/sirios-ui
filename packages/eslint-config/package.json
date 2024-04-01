@@ -1,6 +1,6 @@
 {
   "name": "@sirios/eslint-config",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "license": "MIT",
   "private": true,
   "main": "index.js",
