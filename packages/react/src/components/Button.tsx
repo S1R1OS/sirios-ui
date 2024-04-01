@@ -29,14 +29,14 @@ export const Button = styled('button', {
   },
 
   '&:focus': {
-    boxShadow: '0 0 0 2px $colors$sirios300',
+    boxShadow: '0 0 0 2px $colors$orange300',
   },
 
   variants: {
     variant: {
       primary: {
-        color: '$white',
-        background: '$sirios500',
+        color: '$gray50',
+        background: '$orange500',
 
         '&:not(:disabled):hover': {
           background: '$orange300',
@@ -49,11 +49,11 @@ export const Button = styled('button', {
 
       secondary: {
         color: '$orange300',
-        border: '2px solid $sirios500',
+        border: '2px solid $orange500',
 
         '&:not(:disabled):hover': {
-          background: '$sirios500',
-          color: '$white',
+          background: '$orange500',
+          color: '$gray50',
         },
 
         '&:disabled': {
