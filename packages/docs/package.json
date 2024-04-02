@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build-next": "next build",
-    "deploy-storybook": "gh-pages -d storybook-static",
+    "deploy-storybook": "storybook-to-ghpages",
     "build": "storybook build",
     "dev": "storybook dev -p 6006"
   },
