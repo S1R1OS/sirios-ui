@@ -1,4 +1,5 @@
 import type { Preview } from "@storybook/react";
+import { RouterContext } from 'next/dist/shared/lib/router-context.shared-runtime';
 
 const preview: Preview = {
   parameters: {

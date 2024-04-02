@@ -1,5 +1,11 @@
 # @sirios/ts-config
 
+## 4.0.2
+
+### Patch Changes
+
+- Storybook pages
+
 ## 4.0.1
 
 ### Patch Changes
